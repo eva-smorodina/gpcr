@@ -4,9 +4,9 @@ G protein-coupled receptors (GPCRs) are involved in numerous signaling pathways 
 
 Here we show:
 1) how to automate the transformation of native GPCRs into water-soluble QTY versions
-2) how to automate the QTY protocols extraction from your mail
-3) how to extract important information from the QTY protocols
+2) how to automate the QTY protocols extraction from your email
+3) how to extract important information from the QTY protocols and arrange a dataset
 4) how to automate the construction of Protter 2D-diagrams
-4) how to visualize some GPCRs data and structures
+4) how to visualize some GPCRs' data and structures
 
 <img src="./images/native_qty_gpcr.png">
