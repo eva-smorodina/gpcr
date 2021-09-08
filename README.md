@@ -5,3 +5,4 @@ G protein-coupled receptors (GPCRs) are one of the most important drug targets i
 
 
 <img src="./images/native_qty_gpcr.png">
+<img src="./images/gpcr_cover_art.png">
