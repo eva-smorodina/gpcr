@@ -1,6 +1,6 @@
 # GPCRs
 
-G protein-coupled receptors (GPCRs) are one of the most important drug targets including therapeutic monoclonal antibodies. Despite importance for clinics, spending enormous R&D costs and decades efforts, very few therapeutic monoclonal antibodies have been approved for clinical uses. This is largely due to not only the difficulties of membrane protein expression, purification and stabilization of GPCRs, but also subsequent monoclonal antibody binding assays. 
+G protein-coupled receptors (GPCRs) are involved in numerous signaling pathways linked with various severe diseases. That's why GPCRs are one of the most important drug targets including therapeutic monoclonal antibodies. Despite their therapeutic significance, very few therapeutic monoclonal antibodies have been approved for clinical usage even after spending enormous R&D costs and decades of effort. This is largely due to not only the difficulties of membrane protein expression, purification, and stabilization of GPCRs but also subsequent monoclonal antibody binding assays. In this regard, GPCRs' *in silico* preparation before direct *in vitro* processing is highly applicable.
 
 Here we show:
 1) how to automate the transformation of native GPCRs into water-soluble QTY versions
